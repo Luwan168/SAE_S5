@@ -12,12 +12,13 @@ Ce que je suis en capacité d'apprendre : IoT
 
 **Tarik MOHAMED**
 
-Compétences de spécialité: Tests et Gestion de projet. Mon stage dans le domaine du développement web s'est réalisé intégralement en télétravail et sans équipe informatique à mes cotés, ce qui m'a poussé à solidifier mes compétences de gestion des taches à réaliser de manière efficace, ainsi que mes compétences de tests et de correction de bugs.
+Compétences de spécialité: Tests et Gestion de projet : évaluation, correction de bugs, validation,  planification et organisation de taches. 
+Mon stage dans le domaine du développement web s'est réalisé intégralement en télétravail et sans équipe informatique à mes cotés, ce qui m'a poussé à solidifier mes compétences de gestion des taches à réaliser de manière efficace, ainsi que mes compétences de tests et de correction de bugs.
 
-Compétences de couverture :
-Bases de données / backend : Modélisation de bases de données, gestion des données dans un cadre professionnel. 
+Compétences de couverture : Bases de données / backend / frontend : Modélisation de bases de données, gestion des données et design d'un site web dans un cadre professionnel.
+J'ai pu solidifier mes compétences en bases de données et en développement frontend / backend à travers les différents projets que j'ai effectué ainsi que durant mon stage, même si ces compétences, particulièrement en frontend et en backend, ne sont clairement pas des compétences que je peux considérer comme étant des compétences de spécialité.
 
-Ce que je suis en capacité d'apprendre : IoT
+Ce que je suis en capacité d'apprendre : IoT / Game design / Cybersécurité.
 
 **Dany LIM**
 
