@@ -19,7 +19,7 @@ Bases de données / backend : Modélisation de bases de données, gestion des do
 
 Ce que je suis en capacité d'apprendre : IoT
 
-Dany LIM
+**Dany LIM**
 
 Compétences de spécialité : Tests et Frontend / React. Mon stage m'a amené à développer un espace destiné à des professionnels de la médecine et donc à gérer l'affichage et la structuration de données sensibles.
 
