@@ -23,9 +23,9 @@ Ce que je suis en capacité d'apprendre : IoT
 
 Compétences de spécialité : Tests et Frontend / React. Mon stage m'a amené à développer un espace destiné à des professionnels de la médecine et donc à gérer l'affichage et la structuration de données sensibles.
 
-Compétences de couverture : Backend, API REST, Supabase (PostgreSQL) et gestion de projet / autonomie, j'ai effectué mon stage en hybride entre distanciel et présentiel, avec une forte demande d'autonomie, une priorisation des tâches et un reporting journalier issu des réunions professionnels.
+Compétences de couverture : Backend, API REST, Supabase (PostgreSQL), Méthodologie Agile et Gestion de projet / Autonomie, j'ai effectué mon stage en hybride entre distanciel et présentiel, avec une forte demande d'autonomie, une priorisation des tâches et un reporting journalier issu des réunions professionnels. J'ai déjà réalisé plusieurs projets personnels en Python et autres langages de programmation qui m'ont permis d'acquérir des bases en Game Design et en Game logic.
 
-Ce que je suis en capacité d'apprendre : Game design / game logic, IoT
+Ce que je suis en capacité d'apprendre : Game design / game logic (à affiner), IoT
 
 
 **Farah JAMAI**
