@@ -29,6 +29,7 @@ Ce que je suis en capacité d'apprendre : Game design / game logic, IoT
 
 
 **Farah JAMAI**
+
 Compétences de spécialité : Réseau / Cybersécurité et Frontend / Backend / Design.
 Mon stage m’a permis de développer mes compétences en réseau et cybersécurité, notamment à travers la configuration de routeurs, switchs et firewalls, la participation à des campagnes de phishing et la résolution d’incidents réseau. En parallèle, je possède plusieurs années d’expérience en développement web et applicatif ainsi qu’en design et UI/UX grâce à mes projets réalisés au lycée et en BUT Informatique.
 
