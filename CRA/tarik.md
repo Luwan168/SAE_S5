@@ -3,3 +3,5 @@ Semaine du 5/10 au 11/10: reflexions sur la manière d'organiser et de gerer le 
 Semaine du 12/10 au 18/10: organisations de plusieurs réunions dans la semaine pour se repartir le travail, se partager nos réflexions et faire le point en vue de la semaine prochaine. Choix des outils pour le game design et premières manipulations avec.
 
 Semaine du 19/10 au 25/10: debut des designs des salles (salle du jugement), esquisse de personnages, afin de maitriser l'outil (Pixelorama) et d'y poser ses reperes
+
+Semaine du 26/10 au 01/11: Design de la 1ère salle finie ainsi que les 1ers personnage, début d'esquisse de la 2ème salle (salle électrique) en vue du MVP pour l'énigme que l'on souhaite intégrer pour le MVP
