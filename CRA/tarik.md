@@ -6,6 +6,8 @@ Semaine du 19/10 au 25/10: debut des designs des salles (salle du jugement), esq
 
 Semaine du 26/10 au 01/11: Design de la 1ère salle finie ainsi que les 1ers personnage, début d'esquisse de la 2ème salle (salle électrique) en vue du MVP pour l'énigme que l'on souhaite intégrer pour le MVP
 
-Semaine du 02/10 au 08/11: pas d'avancée en raison des partiels et du mouvement étudiant actuel
+Semaine du 02/11 au 08/11: pas d'avancée en raison des partiels et du mouvement étudiant actuel
 
-Semaine du 09/10 au 15/11: organisation d'une reunion, fin des designs des salles du jeu et avancées sur les designs des personnages (juge, temoins, suspect, etc...)
+Semaine du 09/11 au 15/11: organisation d'une reunion, fin des designs des salles du jeu et avancées sur les designs des personnages (juge, temoins, suspect, etc...)
+
+Semaine du 16/10 au 23/11: organisation d'une reunion, avancée sur les designs des personnages (presque fini, aurait du etre fini cette semaine mais une coupure d'electricté chez moi du jeudi soir au samedi a empeché cela), planification et reflexion sur les prochains elements a design
