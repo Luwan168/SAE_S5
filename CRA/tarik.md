@@ -10,4 +10,4 @@ Semaine du 02/11 au 08/11: pas d'avancée en raison des partiels et du mouvement
 
 Semaine du 09/11 au 15/11: organisation d'une reunion, fin des designs des salles du jeu et avancées sur les designs des personnages (juge, temoins, suspect, etc...)
 
-Semaine du 16/10 au 23/11: organisation d'une reunion, avancée sur les designs des personnages (presque fini, aurait du etre fini cette semaine mais une coupure d'electricté chez moi du jeudi soir au samedi a empeché cela), planification et reflexion sur les prochains elements a design
+Semaine du 16/11 au 22/11: organisation d'une reunion, avancée sur les designs des personnages (presque fini, aurait du etre fini cette semaine mais une coupure d'electricté chez moi du jeudi soir au samedi a empeché cela), planification et reflexion sur les prochains elements a design
