@@ -1,0 +1,108 @@
+.root {
+    -fx-font-family: "Consolas", "DejaVu Sans Mono", "Monospaced";
+    -fx-font-size: 17px;
+}
+
+.label { -fx-text-fill: #f2e9d0; }
+.normal { -fx-font-size: 18px; -fx-text-alignment: center; }
+.petit { -fx-font-size: 14px; -fx-text-fill: #b9b3c9; }
+.titre { -fx-font-size: 76px; -fx-font-weight: bold; -fx-text-fill: #f5d76e; }
+.sous-titre { -fx-font-size: 22px; }
+.titre-popup { -fx-font-size: 24px; -fx-font-weight: bold; -fx-text-fill: #f5d76e; }
+.orateur { -fx-font-size: 18px; -fx-font-weight: bold; -fx-text-fill: #5fd0e6; }
+.erreur { -fx-font-size: 18px; -fx-font-weight: bold; -fx-text-fill: #ff6b6b; }
+.verdict-innocent { -fx-font-size: 54px; -fx-font-weight: bold; -fx-text-fill: #7ddc6a; }
+.verdict-coupable { -fx-font-size: 54px; -fx-font-weight: bold; -fx-text-fill: #ff5252; }
+
+.voile { -fx-background-color: rgba(18, 16, 34, 0.72); }
+
+.panneau, .dialogue {
+    -fx-background-color: #201d33;
+    -fx-border-color: #f2e9d0;
+    -fx-border-width: 4;
+    -fx-padding: 22;
+}
+.dialogue { -fx-padding: 14 20 12 20; }
+.dialogue .normal { -fx-text-alignment: left; -fx-font-size: 19px; }
+
+.button {
+    -fx-background-color: #ae2f2f;
+    -fx-background-radius: 0;
+    -fx-border-color: #f2e9d0;
+    -fx-border-width: 3;
+    -fx-text-fill: #f2e9d0;
+    -fx-font-weight: bold;
+    -fx-padding: 8 20;
+    -fx-cursor: hand;
+}
+.button:hover, .button:focused { -fx-background-color: #d14040; }
+.button.danger { -fx-background-color: #45283c; }
+.button.danger:hover { -fx-background-color: #6b2f4a; }
+
+.text-field {
+    -fx-background-color: #f2e9d0;
+    -fx-background-radius: 0;
+    -fx-text-fill: #201d33;
+    -fx-font-size: 20px;
+    -fx-alignment: center;
+}
+.text-field.code { -fx-font-size: 30px; -fx-font-weight: bold; }
+
+.progress-bar > .track { -fx-background-color: #45283c; -fx-background-radius: 0; }
+.progress-bar > .bar { -fx-background-color: #ae2f2f; -fx-background-radius: 0; -fx-background-insets: 0; }
+
+.zone { -fx-border-color: transparent; -fx-border-width: 3; }
+.zone:hover { -fx-border-color: #fff23a; -fx-background-color: rgba(255, 242, 58, 0.15); }
+.zone-active { -fx-border-color: rgba(255, 242, 58, 0.45); }
+.zone-proche { -fx-border-color: #fff23a; -fx-background-color: rgba(255, 242, 58, 0.22); }
+.debug-obstacle { -fx-background-color: rgba(255, 0, 0, 0.35); -fx-border-color: red; -fx-border-width: 1;
+                  -fx-text-fill: white; -fx-font-size: 11px; -fx-alignment: top-left; -fx-padding: 2; }
+
+.chrono {
+    -fx-background-color: rgba(18, 16, 34, 0.88);
+    -fx-border-color: #f2e9d0;
+    -fx-border-width: 3;
+    -fx-padding: 6 14;
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #f5d76e;
+}
+.chrono.chrono-alerte { -fx-background-color: #ae2f2f; -fx-text-fill: #fff23a; -fx-border-color: #fff23a; }
+
+.indice {
+    -fx-background-color: rgba(18, 16, 34, 0.88);
+    -fx-border-color: #f2e9d0;
+    -fx-border-width: 2;
+    -fx-padding: 6 14;
+    -fx-font-size: 16px;
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+}
+
+.etat-iot {
+    -fx-background-color: rgba(18, 16, 34, 0.85);
+    -fx-padding: 6 10;
+    -fx-font-size: 14px;
+    -fx-text-fill: #7ddc6a;
+}
+.alarme {
+    -fx-background-color: #ae2f2f;
+    -fx-border-color: #fff23a;
+    -fx-border-width: 4;
+    -fx-padding: 14;
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+}
+
+.feuille { -fx-background-color: #f2e9d0; -fx-padding: 22; }
+.papier { -fx-fill: #201d33; -fx-font-size: 17px; }
+.papier-gras { -fx-fill: #201d33; -fx-font-size: 17px; -fx-font-weight: bold; }
+.grille { -fx-border-color: #201d33; -fx-border-width: 1; }
+.case, .case-entete {
+    -fx-min-width: 44; -fx-min-height: 40; -fx-alignment: center;
+    -fx-border-color: #201d33; -fx-border-width: 1; -fx-text-fill: #201d33;
+}
+.case-entete { -fx-font-weight: bold; -fx-background-color: #d9cfae; }
+
+.tuile { -fx-background-color: #2c2845; -fx-padding: 14; }
